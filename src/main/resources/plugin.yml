@@ -1,0 +1,10 @@
+name: Memes
+version: '${project.version}'
+main: com.torben.memes.Main
+api-version: 1.16
+authors: [ Torben ]
+depend: [NoteBlockAPI]
+description: a plugin dedicated for memes
+commands:
+  rick-roll:
+  oof-sfx:

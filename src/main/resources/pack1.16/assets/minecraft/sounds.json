@@ -1,0 +1,62 @@
+{
+  "memes.rickroll": {
+    "sounds": [
+      {
+        "name": "music/rick_roll.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  },
+  "meme.harlemshake": {
+    "sounds": [
+      {
+        "name": "music/harlem_shake.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  },
+  "meme.oof": {
+    "sounds": [
+      {
+        "name": "music/oof.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  },
+  "meme.hello_there": {
+    "sounds": [
+      {
+        "name": "music/hello_there.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  },
+  "meme.sad": {
+    "sounds": [
+      {
+        "name": "music/sad.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  },
+  "meme.xp_startup": {
+    "sounds": [
+      {
+        "name": "music/xp_startup.ogg",
+        "volume": 1,
+        "pitch": 1,
+        "preload": true
+      }
+    ]
+  }
+}
