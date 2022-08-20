@@ -1,4 +1,4 @@
-/*package com.torben.memes;
+package com.torben.memes;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;
@@ -172,5 +172,3 @@ public class AdvancedLicense {
 		System.out.println(message);
 	}
 }
-
- */

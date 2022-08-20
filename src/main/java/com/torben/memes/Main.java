@@ -17,14 +17,14 @@ public final class  Main extends JavaPlugin {
     public void onEnable() {
         // Plugin startup logic
         saveDefaultConfig();
-        //if (!new AdvancedLicense(this.getConfig().getString("licence"), "https://tornadokspigotplugins.000webhostapp.com/verify.php", this).register()) { return; }
+        if (!new AdvancedLicense(this.getConfig().getString("licence"), "https://tornadokspigotplugins.000webhostapp.com/verify.php", this).register()) { return; }
         saveResource("lang_en.yml", false );
         saveResource("lang_fr.yml", false );
         saveResource("lang_de.yml", false );
         saveResource("lang_es.yml", false );
 
         //int pluginId = 1234; // <-- Replace with the id of your plugin!
-        // Metrics metrics = new Metrics(this, pluginId);
+        // Metrics metrics = new Metrics(this, pluginId);z
 
         // Optional: Add custom charts
 

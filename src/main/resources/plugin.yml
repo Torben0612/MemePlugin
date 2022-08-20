@@ -7,4 +7,5 @@ depend: [NoteBlockAPI]
 description: a plugin dedicated for memes
 commands:
   rick-roll:
-  oof-sfx:
+  sad-sfx:
+  all-star:
